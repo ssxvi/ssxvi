@@ -1,4 +1,4 @@
-### Heyo, my name is Trevor Liu
+### Heyo, my name is Trevor Liu! 👋
 ---
 
 I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and am looking for co-op opportunities 4-8 months for the coming Fall or Winter.
