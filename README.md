@@ -19,7 +19,7 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 - Brain Controlled Keyboard Interface
 - Human Feeder Arm Auto-control System
 - Twitter Content Servicer
-- Bioinformatic Analysis of Bladder Urothelial Carcinoma
+- Bioinformatical Analysis of Bladder Urothelial Carcinoma
 
 <!--
 **ssxvi/ssxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
