@@ -1,4 +1,4 @@
-### Heyo, my name is Trevor Liu! 👋
+### Heyo, my name is Trevor Liu
 ---
 
 I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and am looking for co-op opportunities 4-8 months for the coming Fall or Winter.
@@ -19,8 +19,11 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 - Brain Controlled Keyboard Interface
 - Human Feeder Arm Auto-control System
 - Twitter Content Servicer
-- Bioinformatical Analysis of Bladder Urothelial Carcinoma
+- Bioinformatic Analysis of Bladder Urothelial Carcinoma
 
+--- 
+
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxvi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ssxvi/ssxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
