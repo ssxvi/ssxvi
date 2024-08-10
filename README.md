@@ -9,17 +9,17 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 - 👾 [The 24 Game!](https://github.com/ssxvi/Summer-2022---24-Game)  (React.JS Webapp)
 - 💣 [Minesweeper Solver](https://github.com/ssxvi/Summer-2022---24-Game)  (JS/HTML/CSS)
 - 🧠 [MUSE-Pet, EEG-controlled Tamagochi](https://github.com/UBCMint/MUSE-Pet)  (MERN Stack)
-- 🍝 [Auto Copypasta Keybinder](https://github.com/ssxvi/CopypastaTyper)  (React.js/Python)
+- 🍝 [Auto Copypasta Keybinder](https://github.com/ssxvi/CopypastaTyper)  (Python)
 - 🎮 [Tetris Board to Emoji Converter](https://github.com/ssxvi/Tetris-Emoji-Setup) (JS/HTML/CSS)
-- 🧊 [NeuroCubeX 2022](https://github.com/UBCMint/NTX-2022-Project)
-  
+- 🧊 [NeuroCubeX 2022](https://github.com/UBCMint/NTX-2022-Project) (Python)
+    
 ### Private Projects (available upon request)
 --- 
 
-- 🧠⌨ Brain Controlled Keyboard Interface
-- 🥄🦾Human Feeder Arm Auto-control System
-- 🐤Twitter Content Servicer
-- 🧬Bioinformatic Analysis of Bladder Urothelial Carcinoma
+- 🧠⌨ Brain Controlled Keyboard Interface (React.js/Python)
+- 🥄🦾Human Feeder Arm Auto-control System (Python)
+- 🐤Twitter Content Servicer (Java)
+- 🧬Bioinformatic Analysis of Bladder Urothelial Carcinoma (R)
 
 --- 
 
