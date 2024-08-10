@@ -6,11 +6,11 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 ### Public Projects
 ---
 
-- [The 24 Game! (React.JS Webapp)](https://github.com/ssxvi/Summer-2022---24-Game)
-- [Minesweeper Solver (JS/HTML/CSS)](https://github.com/ssxvi/Summer-2022---24-Game)
-- [MUSE-Pet, EEG-controlled Tamagochi (MERN Stack)](https://github.com/UBCMint/MUSE-Pet)
-- [Auto Copypasta Keybinder (React.js/Python) ](https://github.com/ssxvi/CopypastaTyper)
-- [Tetris Board to Emoji Converter (JS/HTML/CSS)](https://github.com/ssxvi/Tetris-Emoji-Setup)
+- [The 24 Game!](https://github.com/ssxvi/Summer-2022---24-Game)  (React.JS Webapp)
+- [Minesweeper Solver](https://github.com/ssxvi/Summer-2022---24-Game)  (JS/HTML/CSS)
+- [MUSE-Pet, EEG-controlled Tamagochi](https://github.com/UBCMint/MUSE-Pet)  (MERN Stack)
+- [Auto Copypasta Keybinder](https://github.com/ssxvi/CopypastaTyper)  (React.js/Python)
+- [Tetris Board to Emoji Converter](https://github.com/ssxvi/Tetris-Emoji-Setup) (JS/HTML/CSS)
 - [NeuroCubeX 2022](https://github.com/UBCMint/NTX-2022-Project)
   
 ### Private Projects (available upon request)
