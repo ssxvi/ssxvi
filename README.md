@@ -7,6 +7,7 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 ---
 
 - 🧠 [MUSE-Pet, EEG-controlled Tamagochi](https://github.com/UBCMint/MUSE-Pet)  (MongoDB/Express.JS/React.JS/Node.JS)
+- 😔 [Sentiment Analyezr](https://github.com/CPEN-221-2022/mp1-Esmeralda/) (Java)
 - 🎮 [Tetris Board to Emoji Converter](https://github.com/ssxvi/Tetris-Emoji-Setup) (JS/HTML/CSS)
 - 🧊 [NeuroCubeX 2022](https://github.com/UBCMint/NTX-2022-Project) (Python)
 - 👾 [The 24 Game!](https://github.com/ssxvi/Summer-2022---24-Game)  (React.JS Webapp)
