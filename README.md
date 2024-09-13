@@ -18,7 +18,7 @@ I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 
 - 🧠⌨ Brain Controlled Keyboard Interface (React.js/Python)
 - 🥄🦾Human Feeder Arm Auto-control System (Python)
-- 😔 [Sentiment Analyezr](https://github.com/CPEN-221-2022/mp1-Esmeralda/) (Java)
+- 😔 Sentiment Analyezr(https://github.com/CPEN-221-2022/mp1-Esmeralda/) (Java)
 - 🐤Twitter Content Servicer (Java)
 - 🧬Bioinformatic Analysis of Bladder Urothelial Carcinoma (R)
 
