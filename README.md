@@ -1,7 +1,7 @@
 ### Heyo, my name is Trevor Liu 😊
 ---
 
-I'm a 4th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and am looking for co-op opportunities 4-8 months for the coming Fall or Winter.
+I'm a 5th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and am looking for front or backend opportunities for Summer 2026.
 
 ### Public Projects
 ---
