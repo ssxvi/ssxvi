@@ -5,7 +5,6 @@ I'm a 5th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 
 ### Public Projects
 ---
-
 - 🧠 [MUSE-Pet, EEG-controlled Tamagochi](https://github.com/UBCMint/MUSE-Pet)  (MongoDB/Express.JS/React.JS/Node.JS)
 - 🎮 [Tetris Board to Emoji Converter](https://github.com/ssxvi/Tetris-Emoji-Setup) (JS/HTML/CSS)
 - 🧊 [NeuroCubeX 2022](https://github.com/UBCMint/NTX-2022-Project) (Python)
@@ -16,6 +15,7 @@ I'm a 5th year Biomedical Engineering student at [UBC](https://www.ubc.ca/), and
 ### Private Projects (available upon request)
 --- 
 
+- CAPSTONE 2026 - BY REQUEST
 - 🧠⌨ Brain Controlled Keyboard Interface (React.js/Python)
 - 🥄🦾Human Feeder Arm Auto-control System (Python)
 - 😔 Sentiment Analyezr (Java)
